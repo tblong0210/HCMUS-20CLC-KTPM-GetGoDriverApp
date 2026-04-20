@@ -45,7 +45,7 @@ Follow these instructions to run the application on your local machine or a phys
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tblong0210/HCMUS-20CLC-KTPM-GetGoDriverApp.git](https://github.com/tblong0210/HCMUS-20CLC-KTPM-GetGoDriverApp.git)
+    git clone https://github.com/tblong0210/HCMUS-20CLC-KTPM-GetGoDriverApp.git
     cd HCMUS-20CLC-KTPM-GetGoDriverApp
     ```
 
